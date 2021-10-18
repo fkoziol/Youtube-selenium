@@ -1,3 +1,7 @@
+## Watching videos automatically using Selenium
+
+This side-project was made as part of a group project during a hackaton organized by Amsterdam's university
+
 ## Watching Youtube videos.ipynb
 
 This script needs some minimal effort in order to be used correctly:
